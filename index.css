@@ -1,1 +1,15 @@
 
+#navbar {
+    position: fixed;
+    display: block;
+    left: -350px;
+    top:0px;
+    min-width: 290px;
+}
+@media (max-width:300px){
+      body {
+        background-color: brown;
+        align-items:center;
+
+    }
+}
